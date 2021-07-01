@@ -1,4 +1,22 @@
-body{
+body {
     margin:0px;
     padding:0px;
+}
+
+.navigation-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 90px;
+    width:100%;
+}
+
+.navigation-wrapper > .left-column {
+    display:flex;
+    align-items: center;
+}
+
+.navigation-wrapper > .left-column > img {
+    height:50px;
 }
