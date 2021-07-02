@@ -1,0 +1,22 @@
+.button-wrapper{
+    color:white;
+    background-color: #57595c;
+    height: 70px;
+    padding: 0px 20px;
+    margin-left: 45px;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.button-wrapper > i{
+    color: #4aca77;
+    margin-left: 10px;
+}
+
+.search-icon{
+    color: gray;
+    margin-left: 45px;
+    font-size: 2.5em;
+}
